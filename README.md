@@ -142,16 +142,14 @@ evidencia-web-uno/
 Una vez finalizado y probado tu ejercicio, registra tus cambios y súbelos a tu repositorio:
 
 ```bash
-# 1. Verifica los archivos modificados
-git status
 
-# 2. Agrega los cambios de tu carpeta
+# 1. Agrega los cambios de tu carpeta
 git add .
 
-# 3. Realiza el commit con un mensaje descriptivo
+# 2. Realiza el commit con un mensaje descriptivo
 git commit -m "feat: solucion evaluacion JavaScript - Nombre Apellido"
 
-# 4. Sube los cambios a la rama develop de tu fork
+# 3. Sube los cambios a la rama develop de tu fork
 git push origin develop
 ```
 
@@ -160,8 +158,7 @@ git push origin develop
 ## 📤 Entrega
 Para finalizar la entrega:
 1. Asegúrate de que los cambios estén visibles en tu repositorio en GitHub dentro de la rama `develop`.
-2. *(Opcional / Según indique el docente)* Crea un **Pull Request** desde la rama `develop` de tu fork hacia la rama `develop` del repositorio original, o envía el enlace de tu repositorio/fork por el medio asignado.
-
+2. Crea un **Pull Request** desde la rama `develop` de tu fork hacia la rama `develop` del repositorio original.
 ---
 
 ## 💡 Criterios a tener en cuenta
