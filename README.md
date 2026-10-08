@@ -9,7 +9,7 @@ En esta actividad pondrás a prueba tus conocimientos fundamentales de **JavaScr
 Desarrollar la solución al ejercicio asignado en JavaScript, integrándolo en una estructura web básica y gestionando las versiones del código mediante buenas prácticas con Git.
 
 > [!NOTE]
-> La consigna o enunciado específico con el ejercicio asignado para cada estudiante se entregará en un documento/archivo independiente.
+> Cada estudiante tiene un ejercicio específico asignado según su documento de identidad. Consulta la sección [📚 Asignación de Ejercicios](#-asignación-de-ejercicios) en este documento.
 
 ---
 
@@ -88,8 +88,53 @@ evidencia-web-uno/
 ---
 
 ### 5. Desarrollar la Solución
-- Resuelve el ejercicio asignado según las instrucciones del documento adjunto provisto por el docente.
-- Asegúrate de comprobar el correcto funcionamiento abriendo el archivo `index.html` en el navegador y verificando la consola de desarrollador (`F12`).
+- Busca tu número de documento de identidad en la **Tabla de Asignación de Ejercicios** ubicada a continuación.
+- Abre y lee detenidamente el archivo `.md` del ejercicio que te fue asignado.
+- Resuelve el ejercicio en tu archivo `app.js` cumpliendo con todos los requerimientos y restricciones técnicas indicadas en su respectivo enunciado.
+- Comprueba el correcto funcionamiento abriendo tu archivo `index.html` en el navegador y verificando la consola de desarrollador (`F12`).
+
+---
+
+## 📚 Asignación de Ejercicios
+
+### 🔗 Enunciados Disponibles
+- **Ejercicio 1:** [EJERCICIO_1_CINE.md](EJERCICIO_1_CINE.md) — *Taquilla de Cine "CineStar"*
+- **Ejercicio 2:** [EJERCICIO_2_PARQUE.md](EJERCICIO_2_PARQUE.md) — *Parque de Diversiones "Aventura Park"*
+- **Ejercicio 3:** [EJERCICIO_3_MASCOTAS.md](EJERCICIO_3_MASCOTAS.md) — *Tienda de Mascotas "Pet Center"*
+- **Ejercicio 4:** [EJERCICIO_4_GIMNASIO.md](EJERCICIO_4_GIMNASIO.md) — *Centro Fitness "FitZone Club"*
+
+---
+
+### 📋 Tabla de Asignación por Documento
+
+| Documento | Ejercicio Asignado | Enunciado |
+| :---: | :---: | :--- |
+| **1036449813** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1037596269** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **1035866185** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1035857735** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1021804625** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1037607011** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **1001588913** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1007239276** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1214743083** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **4903282** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **1095801952** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1000442275** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1026141847** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1020436045** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **1001014162** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1020419234** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1007238587** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1001011043** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **1000570133** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1036956502** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1017192554** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1019054366** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
+| **91506744** | 3 | [Ver Ejercicio 3](EJERCICIO_3_MASCOTAS.md) |
+| **1036674924** | 4 | [Ver Ejercicio 4](EJERCICIO_4_GIMNASIO.md) |
+| **1003082810** | 1 | [Ver Ejercicio 1](EJERCICIO_1_CINE.md) |
+| **1013344035** | 2 | [Ver Ejercicio 2](EJERCICIO_2_PARQUE.md) |
 
 ---
 
