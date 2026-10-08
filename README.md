@@ -66,7 +66,7 @@ git branch
 ### 4. Crear tu Carpeta y Archivos de Trabajo
 Estando ubicado en la raíz del proyecto y en la rama `develop`:
 
-1. Crea una carpeta nombrada con tu **nombre y apellido** (en minúsculas y separado por guion, por ejemplo: `juan-perez`).
+1. Crea una carpeta nombrada con tu **documento + guion + nombre y apellido** (en minúsculas y separado por guion, por ejemplo: `1014293362-jaime-zapata`).
 2. Entra a tu carpeta y crea los siguientes dos archivos:
    - `index.html`: Estructura base HTML5 donde se visualizará o interactuará con el ejercicio.
    - `app.js` (o `index.js`): Código JavaScript donde implementarás la solución al ejercicio.
@@ -75,7 +75,7 @@ Estando ubicado en la raíz del proyecto y en la rama `develop`:
 ```text
 evidencia-web-uno/
 ├── README.md
-└── nombre-apellido/          <-- Tu carpeta personal
+└── documento-nombre-apellido/          <-- Tu carpeta personal
     ├── index.html            <-- Estructura HTML vinculada al script
     └── app.js                <-- Tu lógica de JavaScript
 ```
